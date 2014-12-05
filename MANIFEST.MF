@@ -5,5 +5,5 @@ Build-Jdk: 1.8.0_20-ea
 Implementation-Title: bytecodechange
 Implementation-Vendor-Id: src.main.java.com.example.bytecodetransrator
 Main-Class: src.main.java.com.example.bytecodetransrator.App
-Class-Path: target/asm-5.0.2.jar
+Class-Path: asm-5.0.3.jar
 
