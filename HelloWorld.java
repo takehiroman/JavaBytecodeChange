@@ -11,7 +11,7 @@ public class HelloWorld
 		int j = 40;
 		int k = 50;
 		int l;
-		l = i + j * k + i * j * k;
+		l = (i + j) * k;
 		
 		System.out.println(l);
 	}
