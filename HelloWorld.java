@@ -4,7 +4,7 @@ public class HelloWorld
 		
 		int i = 10;
 		int j = 20;
-		int k = 30;
+		int k = 40;
 		int l = (i + j) * k;
 		
 		System.out.println(l);
