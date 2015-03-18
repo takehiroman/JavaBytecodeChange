@@ -4,7 +4,7 @@ package src.main.java.com.example.bytecodetransrator;
 
 /**
  * Hello world!
- * プラスをマイナスに変換するプログラム．
+ * 数式を書き換えるプログラム
  * 実行例:
  * java -jar bytecodeTransrator.jar 変換したいクラスファイル 変換後のクラスファイル名
  */

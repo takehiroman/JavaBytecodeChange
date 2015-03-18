@@ -1,0 +1,2 @@
+TARGET = jad
+JAVAC = javac
