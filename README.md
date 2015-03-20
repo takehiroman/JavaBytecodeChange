@@ -31,7 +31,7 @@ $ ./jad -s java -d out/ -r Test.class
 
 [使い方]
 
-java -jar bytecodechange1.jar [変換したいクラスファイル] [変換後のクラスファイル名]
+java -jar bytecodechange.jar [変換したいクラスファイル] [変換後のクラスファイル名]
 
 これを手順２~３の間で行い、バイトコード書き換え後の実行結果が書き換え前と一致することを確認する
 
