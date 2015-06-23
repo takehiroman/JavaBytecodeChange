@@ -1,4 +1,4 @@
-package src.main.java.com.example.bytecodetransrator;
+package com.example.bytecodetransrator;
 
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.MethodVisitor;

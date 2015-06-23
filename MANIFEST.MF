@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Built-By: g1244730
-Build-Jdk: 1.8.0_20-ea
-Implementation-Title: bytecodechange
-Implementation-Vendor-Id: src.main.java.com.example.bytecodetransrator
-Main-Class: src.main.java.com.example.bytecodetransrator.App
-Class-Path: asm-5.0.3.jar
-

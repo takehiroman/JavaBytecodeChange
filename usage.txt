@@ -1,2 +1,2 @@
 [Usage]
-java -jar taget/bytecodeTransrator.jar [変換したいクラスファイル] [変換後のクラスファイル名]
+java -jar taget/target/JavaBytecodeChange-1.0-SNAPSHOT.jar [変換したいクラスファイル] [変換後のクラスファイル名]

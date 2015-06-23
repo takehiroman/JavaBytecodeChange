@@ -1,6 +1,6 @@
 //classファイルの読み込み、または書き込み
 
-package src.main.java.com.example.bytecodetransrator;
+package com.example.bytecodetransrator;
 
 /**
  * Hello world!
@@ -18,7 +18,7 @@ import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.ClassWriter;
 
-public class App extends Object{
+public class App {
 	 /**
 	  * コンストラクタ
 	  */
