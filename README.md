@@ -5,7 +5,7 @@ JavaBytecodeChange
 
 ==================
 
-[Usage]
+## Usage
 
 $ mvn package
 
