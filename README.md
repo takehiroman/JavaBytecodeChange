@@ -13,19 +13,19 @@ $ javac Test.java
 
 $ java Test
 
-生成されたclassファイルを難読化
+・生成されたclassファイルを難読化
 
 $ java -jar target/JavaBytecodeChange-1.0-SNAPSHOT.jar Test.class Test.class
 
 $ java Test
 
-デコンパイラを使ってクラスファイルからソースコードを生成(デコンパイラはjadを使用)
+・デコンパイラを使ってクラスファイルからソースコードを生成(デコンパイラはjadを使用)
 
 $ ./jad -s java -d out/ -r Test.class
 
-ソースコードを生成したディレクトリに移動し再びコンパイルして実行
+・ソースコードを生成したディレクトリに移動し再びコンパイルして実行
 
-実行結果がデコンパイル前と同じなら元のソースコードとデコンパイル後のソースコードは同じ
+・コンパイルが通らなかった場合、デコンパイラはソースに戻すのに失敗
 
 ==================
 License MIT
