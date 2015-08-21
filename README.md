@@ -7,17 +7,13 @@ JavaBytecodeChange
 
 ## Usage
 
-::
+~~~ {.bash}
 $ mvn package
-::
 
-::
 $ javac Test.java
-::
 
-::
 $ java Test
-::
+~~~ 
 
 ・生成されたclassファイルを難読化
 
